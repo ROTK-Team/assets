@@ -87,8 +87,8 @@
       "name": "data_x64_0",
       "version": "1.13.19",
       "url": "https://github.com/h1z1rotk/assets/releases/download/assets-v1.13.19/data_x64_0.payload",
-      "sha256": "67ce81e0b9a92c899f166c40b45549243e018955759cb8b4c5b8e28770c5a8d3",
-      "size": 46825266,
+      "sha256": "6daf32851dd417b804b2289182ca9a38a4af018504504d4e46bdd262c5652ab4",
+      "size": 48700549,
       "installPath": "Resources/Assets",
       "type": "zip"
     },
