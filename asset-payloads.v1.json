@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "kind": "asset-payloads",
-  "packVersion": "1.13.21",
+  "packVersion": "1.13.22",
   "files": [
     {
       "asset": "assets_x64_10",
@@ -223,7 +223,7 @@
       "asset": "assets_x64_0",
       "path": "Resources/Assets/assets_x64_0.pack2",
       "size": 2510511904,
-      "sha256": "8a639c39c6d08dd46d76ffdf87f8796e59b57ca8d66c26ae17e9afcf93ef72f2"
+      "sha256": "9c4542d4ac68f3e5a57f903f153a74d0d7a110d36ee12c4912dcd14027cb0a2d"
     },
     {
       "asset": "data_x64_0",
@@ -242,6 +242,12 @@
       "path": "Resources/Assets/ui_x64_2.pack2",
       "size": 48751724,
       "sha256": "153afd1a21fa1f9b95b9f7a3ca8a944a370cc7bad5f847c0146aa535f1d53a52"
+    },
+    {
+      "asset": "assets_x64_3",
+      "path": "Resources/Assets/assets_x64_3.pack2",
+      "size": 493036964,
+      "sha256": "dc957c48e879430757004ef319cdf297f2723fa1a5a657a4d78a4f05adc3e374"
     }
   ]
 }
