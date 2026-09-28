@@ -6,8 +6,8 @@
       "name": "assets_x64_0",
       "version": "1.13.21",
       "url": "https://github.com/h1z1rotk/assets/releases/download/assets-v1.13.21/assets_x64_0.payload",
-      "sha256": "5644fb8b036e5e8a59dacc6788aa571a9ced65acaa134f3d5ee2e19872e4012a",
-      "size": 1346655369,
+      "sha256": "1f7cf9dc85591e9f4448209d946a15837db1d94199273dc6a36559a2a4d95b17",
+      "size": 1346655329,
       "installPath": "Resources/Assets",
       "type": "zip"
     },
