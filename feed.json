@@ -1,13 +1,13 @@
 {
   "manifestVersion": 1,
-  "packVersion": "1.13.20",
+  "packVersion": "1.13.21",
   "assets": [
     {
       "name": "assets_x64_0",
-      "version": "1.13.20",
-      "url": "https://github.com/h1z1rotk/assets/releases/download/assets-v1.13.20/assets_x64_0.payload",
-      "sha256": "e5a1eb5225d7fe2e2b02f57461a545948501065803f9ecad24378fa570bda69e",
-      "size": 1546617267,
+      "version": "1.13.21",
+      "url": "https://github.com/h1z1rotk/assets/releases/download/assets-v1.13.21/assets_x64_0.payload",
+      "sha256": "1f7cf9dc85591e9f4448209d946a15837db1d94199273dc6a36559a2a4d95b17",
+      "size": 1346655329,
       "installPath": "Resources/Assets",
       "type": "zip"
     },
