@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "kind": "asset-payloads",
-  "packVersion": "1.13.23",
+  "packVersion": "1.13.24",
   "files": [
     {
       "asset": "assets_x64_10",
@@ -246,8 +246,8 @@
     {
       "asset": "assets_x64_0",
       "path": "Resources/Assets/assets_x64_0.pack2",
-      "size": 2510557369,
-      "sha256": "357384d409f0c2a3a4c0e9573076376a1855757e9032b482bf72f951ed8bebd1"
+      "size": 2510641221,
+      "sha256": "82656a91b60675d254b1fd3e88ef5ade1ef475fc9325f3a1e256904ea92057d7"
     }
   ]
 }
