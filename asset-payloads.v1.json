@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "kind": "asset-payloads",
-  "packVersion": "1.13.25",
+  "packVersion": "1.13.28",
   "files": [
     {
       "asset": "assets_x64_10",
@@ -60,140 +60,140 @@
     {
       "asset": "rotk_input_default",
       "path": "InputProfile_Default.xml",
-      "size": 48184,
-      "sha256": "e9a932ccfaafbdb63295c60ef61ce0e40c2fd4797599cee8632f3eb0d0ce8e45"
+      "size": 48185,
+      "sha256": "dc364c0e5dfd31b272c294268734d834b9570dc376f898be577df543ff9adf87"
     },
     {
       "asset": "locale_rotk",
       "path": "Locale/de_de_data.dat",
-      "size": 689725,
-      "sha256": "59ba0672cc9cb839e3283641089fd9bf81bafb370e5c0c34a5df6a7c0b7676e8"
+      "size": 690971,
+      "sha256": "2e6762e9ca819b7114fe5ed7b8d3907374f7155635a709b53a032c09e8d5cb7a"
     },
     {
       "asset": "locale_rotk",
       "path": "Locale/de_de_data.dir",
-      "size": 269155,
-      "sha256": "7555f429b61948574306160499b2fa3ff9d9d6e53f5a557e6d7ca893faea4bd2"
+      "size": 269933,
+      "sha256": "e416115e3f6baebf8a3c2d25a8bb62086e27d9450abd98a396b68a3c0597f4bc"
     },
     {
       "asset": "locale_rotk",
       "path": "Locale/en_us_data.dat",
-      "size": 705478,
-      "sha256": "c046129e0807acdd565e0116f362ca844cdd28bb4a42069a017705e5330c65ce"
+      "size": 706724,
+      "sha256": "3e6e71fa839c6144c0d271feac84e3595b63a7a286a7b916ad611fdd3bf5ebe9"
     },
     {
       "asset": "locale_rotk",
       "path": "Locale/en_us_data.dir",
-      "size": 330562,
-      "sha256": "da9e82d5f1d3ed4855794dc5dcb612cd6362e06454813d562cbba89b38d87c27"
+      "size": 331343,
+      "sha256": "7dec5aaa4f9ca9bca250bd5c73ba3f59f9e97c9721c02bc2168d10966c472095"
     },
     {
       "asset": "locale_rotk",
       "path": "Locale/es_es_data.dat",
-      "size": 683595,
-      "sha256": "7cf3302e468cb5b9cd36036825ae642e05addc4fdfa2abd20e4f072769c4770a"
+      "size": 684841,
+      "sha256": "321d6549046986119825d3f463797d529cc8bfa61dee3d291233b06bf8c96992"
     },
     {
       "asset": "locale_rotk",
       "path": "Locale/es_es_data.dir",
-      "size": 269085,
-      "sha256": "69bf49ca851a85d927a141cd2a48ebb1293ddcc8d87a60c1d679c3735d9b57ba"
+      "size": 269864,
+      "sha256": "d84437c6cf3544e04329cc26402bd33543845a56f4abfcbfef88e83d9b7579b3"
     },
     {
       "asset": "locale_rotk",
       "path": "Locale/fr_fr_data.dat",
-      "size": 697071,
-      "sha256": "a594cdb12aa5060b5cc64dd2c87e7e99e66adf0dee5fbd063757a62cc4c346c9"
+      "size": 698317,
+      "sha256": "c43c4c755ad1ea40bec4f6e92c4de2352d64da6803de855a2c90e260f8c147f0"
     },
     {
       "asset": "locale_rotk",
       "path": "Locale/fr_fr_data.dir",
-      "size": 269139,
-      "sha256": "43ed54f269b7d106d8b805fe1cce81961c15c024bd2a83c23110ac262b0857e2"
+      "size": 269918,
+      "sha256": "1b4824cc846bb0907b917edf91c5d1c75f73c6bd3a037c40a56b22a42de5dd2e"
     },
     {
       "asset": "locale_rotk",
       "path": "Locale/ja_jp_data.dat",
-      "size": 800260,
-      "sha256": "69942e6f0f9878c66d5f1405e07b471aeb202b8f32e9d73ece9cd16ee95edd16"
+      "size": 801506,
+      "sha256": "3bc1aa87d9c441c9c446c917a451320a542f63563ecd7a52716112c1fc33ac71"
     },
     {
       "asset": "locale_rotk",
       "path": "Locale/ja_jp_data.dir",
-      "size": 269630,
-      "sha256": "71f45a7645315d7761e998c86ef92bbaccf04305d11d58caad390778b8b14e6d"
+      "size": 270405,
+      "sha256": "4915364b3a403486118a7ef294884bd9f10a8b4c77c15f53d3e18aa29a782e59"
     },
     {
       "asset": "locale_rotk",
       "path": "Locale/ko_kr_data.dat",
-      "size": 696923,
-      "sha256": "60614a082e25c9ca14d297009a693a56cd0023053aa34ae8446e5be2bfbaa637"
+      "size": 698169,
+      "sha256": "0e0f753f1a7f56cfaea23c03aaea286cd64384960da2462e7690f89f3d6fdfb8"
     },
     {
       "asset": "locale_rotk",
       "path": "Locale/ko_kr_data.dir",
-      "size": 269231,
-      "sha256": "c90958353c5199e083e3a5db44409a77c0c0cce4eb006c7ed47d4a9a2a5a4857"
+      "size": 270010,
+      "sha256": "e9488d53602ce3b37c922ef23997077b67255afaa84fb51f1397a233a5002f52"
     },
     {
       "asset": "locale_rotk",
       "path": "Locale/pt_br_data.dat",
-      "size": 668838,
-      "sha256": "913ceb0d833b66e5ff3c8c625b39a4a1347ce3d573883cedf7265f03334b69ad"
+      "size": 670084,
+      "sha256": "ea4a5a4f1db6fe31e8c06b2680e88c0b0e85534a70ed1e2a095fc5f9355f8120"
     },
     {
       "asset": "locale_rotk",
       "path": "Locale/pt_br_data.dir",
-      "size": 268939,
-      "sha256": "e6a7159f5274198e676cd707f035e4f5c5c2fd71e45e0421b12c2f5bd6e8db32"
+      "size": 269715,
+      "sha256": "abd89228465435f31d32127c908573b5030cd27533107d4014a98a93c354a081"
     },
     {
       "asset": "locale_rotk",
       "path": "Locale/ru_ru_data.dat",
-      "size": 1020593,
-      "sha256": "cc8866c78c9ddb05e9c80a9735902e20d17698eb1cbff50477a0c0c96671ec1f"
+      "size": 1021839,
+      "sha256": "f4618766c7687e5e04d8b39f6269adebf16c1221b1f33acfd080faa5fb2e94e5"
     },
     {
       "asset": "locale_rotk",
       "path": "Locale/ru_ru_data.dir",
-      "size": 270818,
-      "sha256": "bbf62c56e11040350ee3835dc861a9c35dd8c67f5b9c5bef568d6a03a2ccc2ac"
+      "size": 271612,
+      "sha256": "8421a275c3981fed380cde2ac7a42b551fff9fca2fab2fbb1592d9ec08933e1b"
     },
     {
       "asset": "locale_rotk",
       "path": "Locale/th_th_data.dat",
-      "size": 1209336,
-      "sha256": "0f0a692f71e5a9599ae6b1900bd7c306c2f364b79567935ab5502c07c602f525"
+      "size": 1210582,
+      "sha256": "756859295060656d2d3ecc4131f4a1d5c5c5cb6064e78d81d86044ed45484a56"
     },
     {
       "asset": "locale_rotk",
       "path": "Locale/th_th_data.dir",
-      "size": 273266,
-      "sha256": "5f8058be62358335580d0a3611a9c0cc174b8bdc1c5752c7cb9894874292c023"
+      "size": 274069,
+      "sha256": "e2d970ac21345a644823093d532257e0f6bde6546f21a74280f07ba73f9b8948"
     },
     {
       "asset": "locale_rotk",
       "path": "Locale/tr_tr_data.dat",
-      "size": 683174,
-      "sha256": "f1197752928088ba69b59852d8524811477732877493700f68b12cffa296d3c6"
+      "size": 684420,
+      "sha256": "952b38df5089d0338007888d141b53f5580597cbac434c207cf3ae3c3cb0f31b"
     },
     {
       "asset": "locale_rotk",
       "path": "Locale/tr_tr_data.dir",
-      "size": 269034,
-      "sha256": "f71738780f42b3d58d36035be87084286464949ea579355239160988c13d3807"
+      "size": 269808,
+      "sha256": "be249aff8b10920d044f8dc203f9743efab44b28c741f717da94c8fa7948fa9c"
     },
     {
       "asset": "locale_rotk",
       "path": "Locale/zh_cn_data.dat",
-      "size": 599712,
-      "sha256": "c95e5a593ebc4b76931b51366dcc09bc2e9a9fe1eb4851c90bdddf9fb7dc5e2a"
+      "size": 600958,
+      "sha256": "f9eda81df99646e56f6dedadcf11357d1dd01d0b861ee8952bad409a25bdc464"
     },
     {
       "asset": "locale_rotk",
       "path": "Locale/zh_cn_data.dir",
-      "size": 268527,
-      "sha256": "d775a9f89ea6b9876ef3263d7422da5e3c2d74cd265f737e32ade75f1c45ee1a"
+      "size": 269306,
+      "sha256": "9e8dc0af72e5d9a7682afaea0cd90e52e77930994b762fadf6c8b34853a071ea"
     },
     {
       "asset": "assets_x64_2",
@@ -222,20 +222,20 @@
     {
       "asset": "data_x64_0",
       "path": "Resources/Assets/data_x64_0.pack2",
-      "size": 50422295,
-      "sha256": "ad5733a47063f2c572d2bd46bc08f3e368c2b4729f552bae761b4c07dc2efd24"
+      "size": 61857941,
+      "sha256": "7e4cc2a90ca4ee4f54f4b9bf876132495e9fe6a6e97074e8df6a100d6662c3f4"
     },
     {
       "asset": "rank_menu_ui",
       "path": "Resources/Assets/ui_x64_0.pack2",
-      "size": 82601239,
-      "sha256": "cce0a6e3957685b8bd50e88c2dc967d86ebad8e9dd21f33b669a3689cdb2e7de"
+      "size": 41531799,
+      "sha256": "1e70bfefff8d11e1d8a27b65f03db3a73b1a104038b1703da86ae9ef6144387c"
     },
     {
       "asset": "rank_menu_ui",
       "path": "Resources/Assets/ui_x64_2.pack2",
-      "size": 48751724,
-      "sha256": "153afd1a21fa1f9b95b9f7a3ca8a944a370cc7bad5f847c0146aa535f1d53a52"
+      "size": 47116918,
+      "sha256": "447a0db505e23b4a62727986180a32a15536372c6578c65a4e3a35f4225351a9"
     },
     {
       "asset": "assets_x64_3",
@@ -246,8 +246,8 @@
     {
       "asset": "assets_x64_0",
       "path": "Resources/Assets/assets_x64_0.pack2",
-      "size": 2510686734,
-      "sha256": "08d8553bc7ed2fbf55c4ce86dcd584ed679f6e8011c0dc1fae21a3c91d06e6e2"
+      "size": 2490823200,
+      "sha256": "5278faccdb1f84b1c93027b0ab12042baadde636a37885914ed81ca557c50b5b"
     }
   ]
 }
