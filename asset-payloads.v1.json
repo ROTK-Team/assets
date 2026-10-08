@@ -216,8 +216,8 @@
     {
       "asset": "assets_x64_0",
       "path": "Resources/Assets/assets_x64_0.pack2",
-      "size": 2493437828,
-      "sha256": "2735fa7b95e3c1a5c701fba39621b5f008205532d999c3ad83a03537c8c58064"
+      "size": 2494743002,
+      "sha256": "54388be0480bad474fb9e4e96b3260aa338d418cc543713f6396cbba0b8bea5e"
     },
     {
       "asset": "assets_x64_1",
@@ -240,8 +240,8 @@
     {
       "asset": "rank_menu_ui",
       "path": "Resources/Assets/ui_x64_0.pack2",
-      "size": 44255935,
-      "sha256": "82d8f95a67bf4f8bc25656968413d94629e63606e14e1492a574ac3c76351b69"
+      "size": 45561012,
+      "sha256": "3dcf3de052fc09148dca249da024d01d8449bb6385ac777096447e2163f70b24"
     },
     {
       "asset": "rank_menu_ui",
