@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "kind": "asset-payloads",
-  "packVersion": "1.13.34",
+  "packVersion": "1.13.35",
   "files": [
     {
       "asset": "assets_x64_10",
@@ -44,18 +44,6 @@
       "path": "Resources/Assets/LoginZone_x64_1.pack2",
       "size": 31923454,
       "sha256": "e636fe1625b44d30415639dbfcb3beff3d264cf7aa2afe2a1d0abfc485a260a4"
-    },
-    {
-      "asset": "cz_death_ui",
-      "path": "Resources/Assets/ui_x64_3.pack2",
-      "size": 42320882,
-      "sha256": "16fd6c2a5b3722b28e349331523e9e1352535499717aaed2a0cd7e2ffc62a54c"
-    },
-    {
-      "asset": "assets_x64_1",
-      "path": "Resources/Assets/assets_x64_1.pack2",
-      "size": 425485819,
-      "sha256": "8ee783896545b2d09cf64ba53bb44f525ae939abc8819d24657fa3cdde2eac02"
     },
     {
       "asset": "rotk_input_default",
@@ -220,24 +208,6 @@
       "sha256": "12b56fc70484a5376548844b84fbe2c9e7f53d03b86c9cb11f2994e556f69db9"
     },
     {
-      "asset": "data_x64_0",
-      "path": "Resources/Assets/data_x64_0.pack2",
-      "size": 61857968,
-      "sha256": "65d10e2eff38bf6f8d15bac465031b77328930cd996935ee44e748649ce67b97"
-    },
-    {
-      "asset": "rank_menu_ui",
-      "path": "Resources/Assets/ui_x64_0.pack2",
-      "size": 41535474,
-      "sha256": "10aacd7ec43aa6b181d3e32bda6bfa65eef1909f6d68f0fc5d4c72bb1e8e98d6"
-    },
-    {
-      "asset": "rank_menu_ui",
-      "path": "Resources/Assets/ui_x64_2.pack2",
-      "size": 47119027,
-      "sha256": "f4c4167fd6e4f1bb30cbebf38a61094e56a5ae273d4be8e006faf0752d8e42c9"
-    },
-    {
       "asset": "assets_x64_3",
       "path": "Resources/Assets/assets_x64_3.pack2",
       "size": 493036964,
@@ -246,8 +216,38 @@
     {
       "asset": "assets_x64_0",
       "path": "Resources/Assets/assets_x64_0.pack2",
-      "size": 2490828180,
-      "sha256": "476bfbfde99331ae501b6547a48aa21683051e66cd91f2263846e73cb2fe99ed"
+      "size": 2493437828,
+      "sha256": "2735fa7b95e3c1a5c701fba39621b5f008205532d999c3ad83a03537c8c58064"
+    },
+    {
+      "asset": "assets_x64_1",
+      "path": "Resources/Assets/assets_x64_1.pack2",
+      "size": 425485819,
+      "sha256": "26217487fb8a6ab35e50633539e48ec84ce6000663ca6860c5fd8f9051696908"
+    },
+    {
+      "asset": "cz_death_ui",
+      "path": "Resources/Assets/ui_x64_3.pack2",
+      "size": 42320882,
+      "sha256": "2c6b910cc95892b14f99904a23aa4406873e398782dd09041fc43e18fb126269"
+    },
+    {
+      "asset": "data_x64_0",
+      "path": "Resources/Assets/data_x64_0.pack2",
+      "size": 61883137,
+      "sha256": "d807d53f8a672def5ddc041c87e1801a6292a6856b52008ed1ee29ef36d79ab9"
+    },
+    {
+      "asset": "rank_menu_ui",
+      "path": "Resources/Assets/ui_x64_0.pack2",
+      "size": 44255935,
+      "sha256": "82d8f95a67bf4f8bc25656968413d94629e63606e14e1492a574ac3c76351b69"
+    },
+    {
+      "asset": "rank_menu_ui",
+      "path": "Resources/Assets/ui_x64_2.pack2",
+      "size": 47119027,
+      "sha256": "f4c4167fd6e4f1bb30cbebf38a61094e56a5ae273d4be8e006faf0752d8e42c9"
     }
   ]
 }
