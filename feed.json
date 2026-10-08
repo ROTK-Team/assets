@@ -6,8 +6,8 @@
       "name": "assets_x64_0",
       "version": "1.13.36",
       "url": "https://github.com/ROTK-Team/assets/releases/download/assets-v1.13.36/assets_x64_0.payload",
-      "sha256": "ba0386420ee024a504b39a70a387c733adee9d29ac1ed1f33872b7c534f445e4",
-      "size": 1532860337,
+      "sha256": "4327018dd14e3bce3c8d6c863f3dd18bbfa6c0b8009dd203429c57b75e463697",
+      "size": 1532860653,
       "installPath": "Resources/Assets",
       "type": "zip"
     },
@@ -105,8 +105,8 @@
       "name": "rank_menu_ui",
       "version": "1.13.36",
       "url": "https://github.com/ROTK-Team/assets/releases/download/assets-v1.13.36/rank_menu_ui.payload",
-      "sha256": "db5753ff16cdcc89780a43092fab16f232b0d2c9b6a5cd9f74751ac6bc05d271",
-      "size": 99310088,
+      "sha256": "baaeab24ac6a9b999aefba60361c3e1f5e0f24842d197f4e8fb57acb3df6324f",
+      "size": 99310401,
       "installPath": "Resources/Assets",
       "type": "zip"
     },
