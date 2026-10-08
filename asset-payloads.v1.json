@@ -216,14 +216,14 @@
     {
       "asset": "assets_x64_0",
       "path": "Resources/Assets/assets_x64_0.pack2",
-      "size": 2494743002,
-      "sha256": "54388be0480bad474fb9e4e96b3260aa338d418cc543713f6396cbba0b8bea5e"
+      "size": 2494771147,
+      "sha256": "7b4bd470083be8f6d929fb97d1662ce57e5190c96ed2dde6af0db217c9a4c50a"
     },
     {
       "asset": "assets_x64_1",
       "path": "Resources/Assets/assets_x64_1.pack2",
-      "size": 425485819,
-      "sha256": "26217487fb8a6ab35e50633539e48ec84ce6000663ca6860c5fd8f9051696908"
+      "size": 425513968,
+      "sha256": "47e157581be73244cff5565193b26c5f9ce0f2a8c3d75e75b2df7b688da41502"
     },
     {
       "asset": "cz_death_ui",
@@ -234,8 +234,8 @@
     {
       "asset": "data_x64_0",
       "path": "Resources/Assets/data_x64_0.pack2",
-      "size": 61883137,
-      "sha256": "d807d53f8a672def5ddc041c87e1801a6292a6856b52008ed1ee29ef36d79ab9"
+      "size": 61885297,
+      "sha256": "b9b25d885ee1f35dd7ddc4b7eb266bf54931f6d43bed0c2ddfe50e4b5a3270ba"
     },
     {
       "asset": "rank_menu_ui",
