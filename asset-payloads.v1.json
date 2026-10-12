@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "kind": "asset-payloads",
-  "packVersion": "1.13.42",
+  "packVersion": "1.13.44",
   "files": [
     {
       "asset": "assets_x64_10",
@@ -84,14 +84,14 @@
     {
       "asset": "assets_x64_1",
       "path": "Resources/Assets/assets_x64_1.pack2",
-      "size": 425488803,
-      "sha256": "bbf70c00f92a70065b2140b23c9e6d276ad0e0092bb420bed7d3803358a01b01"
+      "size": 425488890,
+      "sha256": "4bd2d1a5c9950e2c425e715f38002bf4f825946d40e4717ec9d4c8d65427fb1c"
     },
     {
       "asset": "cz_death_ui",
       "path": "Resources/Assets/ui_x64_3.pack2",
-      "size": 42330561,
-      "sha256": "1fba273a5c15311fcb3a0528abd66d7ec9d964172866fd2244ca289bee620878"
+      "size": 42330656,
+      "sha256": "cdb24b3f72288f1191aaf1a0b62a01c912c955f17ab85449a4da30f2dfb9fb5d"
     },
     {
       "asset": "locale_rotk",
@@ -228,20 +228,20 @@
     {
       "asset": "rank_menu_ui",
       "path": "Resources/Assets/ui_x64_0.pack2",
-      "size": 42868398,
-      "sha256": "c3b42620786abddfc87add5d17a77362a8d4699c6018b4c4d59483c09bfc779b"
+      "size": 41559257,
+      "sha256": "68269e3c52430d84378e8857502b09f804771556e7e01a44ab6193dfce241676"
     },
     {
       "asset": "rank_menu_ui",
       "path": "Resources/Assets/ui_x64_2.pack2",
-      "size": 47135036,
-      "sha256": "990974c270ba9425f45a23059b8b7ce7eda05947baad95d85c101fe151bed14b"
+      "size": 47137113,
+      "sha256": "592e90916e70459bf8b0b70ca139e664759ecba3a73fdd9e286c6c72287b4e9e"
     },
     {
       "asset": "assets_x64_0",
       "path": "Resources/Assets/assets_x64_0.pack2",
-      "size": 2492172249,
-      "sha256": "f677da669be3a0599eafd8a016873eca491831cbb4e04a39115a234569ebde42"
+      "size": 2490879942,
+      "sha256": "b6c6b13c870b13111971d9c921dfccabf7b0ab62fe9f79aad5b635c67d57ef8f"
     },
     {
       "asset": "data_x64_0",
