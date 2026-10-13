@@ -61,5 +61,25 @@
   ],
   "compiledLifecycleProofPassed": true,
   "privateIntegrityRootsVerified": 40,
-  "published": false
+  "published": false,
+  "serverMergeRevision": "21d9b926cc4268f3975ede317715412b7b239741",
+  "draftReleaseId": 411115733,
+  "downloadVerifiedArchives": [
+    {
+      "name": "assets_x64_0.payload",
+      "assetId": 635429098,
+      "size": 1338361713,
+      "sha256": "8cc15df92384722883efff9f9ea0d1f04c6fb887a9d7037fc424f81c68ad67e3",
+      "downloadVerified": true
+    },
+    {
+      "name": "rank_menu_ui.payload",
+      "assetId": 635454054,
+      "size": 89524544,
+      "sha256": "a9aa1570c2fe34bc6aa3cb489b5b2f926d7acfb1ac808022494501adaec50c67",
+      "downloadVerified": true
+    }
+  ],
+  "simulatedPromotedLauncherContractVerified": true,
+  "nativeReleaseCandidateVisualCheck": "interrupted by user; compiled lifecycle proof passed"
 }

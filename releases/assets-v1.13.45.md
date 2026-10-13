@@ -16,7 +16,7 @@ Requires the server change in [returnoftheking#980](https://github.com/ROTK-Team
 - All 16 distributed pack files in the input client matched the 1.13.44 payload manifest.
 - Every present `UIRoot.gfx` and `HudGroupVoiceWindow.gfx` copy was rebuilt. All three distinct variants were compiled, re-exported and exercised by the lifecycle proof; all unrelated exported classes stayed identical.
 - 9,606 unrelated assets in the rebuilt packs retained their exact bytes and metadata. Standard ZIP archive contents were decompressed and checked against staging by the feed builder.
-- The user approved the yellow pulse in the native local harness. The refreshed 1.13.44 candidate passed the compiled proof; that baseline was not separately launched for a combined native acceptance pass.
+- The user approved the yellow pulse in the native local harness. The refreshed 1.13.44 candidate passed the compiled proof; the refreshed candidate was launched, but its final visual check was interrupted by the user with Escape and is not claimed as passed.
 - The exact Rust knock/revive/final-death combat journey and packet-byte test passed. The UI lifecycle proof is part of the server PR's Duos CI shard.
 - The 40 current clean/patched launcher roots were verified against their recorded asset baselines before deriving the new roots. The private policy is staged locally with a guard against a changed policy; it is not applied or published here.
 
@@ -24,4 +24,6 @@ Requires the server change in [returnoftheking#980](https://github.com/ROTK-Team
 
 Keep this release and distribution PR in draft until promotion. Recheck that the published asset feed is still 1.13.44 and the integrity policy still matches the preparation baseline. If either changed, refresh this candidate to preserve the intervening changes. Complete the native acceptance pass on the release candidate and confirm the server tag includes returnoftheking#980.
 
-The uploaded draft payloads must be downloaded and SHA-256 checked before publication. Publish the release before merging this distribution PR, then apply the matching private integrity policy through the normal release process. Recheck the public feed, latest release overlay and integrity roots. A server tag alone does not distribute these UI assets.
+Both uploaded draft payloads were downloaded again and their exact size and SHA-256 verified. The simulated promoted release also passes the launcher-effective feed and payload ownership contract. Publish the release before merging this distribution PR, then apply the matching private integrity policy through the normal release process. Recheck the public feed, latest release overlay and integrity roots. A server tag alone does not distribute these UI assets.
+
+Server PR #980 is merged at `21d9b926cc4268f3975ede317715412b7b239741`. Distribution PR: [assets#69](https://github.com/ROTK-Team/assets/pull/69). The companion release remains [an unpublished draft](https://github.com/ROTK-Team/assets/releases/tag/untagged-1226ca32036ed83df6be).
