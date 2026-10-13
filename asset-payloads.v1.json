@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "kind": "asset-payloads",
-  "packVersion": "1.13.44",
+  "packVersion": "1.13.45",
   "files": [
     {
       "asset": "assets_x64_10",
@@ -32,12 +32,6 @@
       "path": "Resources/Audio/pc9/Weapons_SFX.bnk_pc",
       "size": 98303694,
       "sha256": "da737491d02623f0d2c6a901779e113c158d26a66ade4d7d1ef219e48fd2d5aa"
-    },
-    {
-      "asset": "loginzone_x64_0",
-      "path": "Resources/Assets/LoginZone_x64_0.pack2",
-      "size": 27045891,
-      "sha256": "4a36a9631ae7646d808631e83fd9f54ba48ee2e8f8860a3314bbfb2eb06d3fea"
     },
     {
       "asset": "loginzone_x64_1",
@@ -226,28 +220,34 @@
       "sha256": "5f2f924e1a40fad4258bd581973af8993b16f64d0288182f44d90ea8df515d6e"
     },
     {
+      "asset": "data_x64_0",
+      "path": "Resources/Assets/data_x64_0.pack2",
+      "size": 61870352,
+      "sha256": "2dbb05c039d03757ce8740d83a652055eadf89b034f78c884151e82edec01c98"
+    },
+    {
+      "asset": "assets_x64_0",
+      "path": "Resources/Assets/assets_x64_0.pack2",
+      "size": 2492250652,
+      "sha256": "ca18744322914f883d384f004e039bdbc343693f5be670c87bfa44d14f85b08a"
+    },
+    {
+      "asset": "loginzone_x64_0",
+      "path": "Resources/Assets/LoginZone_x64_0.pack2",
+      "size": 27064326,
+      "sha256": "8057229f2b551781f95fd82df780b2b41a43d9d5bb13b296a2ae0c9772357e8b"
+    },
+    {
       "asset": "rank_menu_ui",
       "path": "Resources/Assets/ui_x64_0.pack2",
-      "size": 41559257,
-      "sha256": "68269e3c52430d84378e8857502b09f804771556e7e01a44ab6193dfce241676"
+      "size": 42928808,
+      "sha256": "44e0bf43e239b7bdcff84b14e9359547e5213a1ea8b4090471a96b1b473645ab"
     },
     {
       "asset": "rank_menu_ui",
       "path": "Resources/Assets/ui_x64_2.pack2",
       "size": 47137113,
       "sha256": "592e90916e70459bf8b0b70ca139e664759ecba3a73fdd9e286c6c72287b4e9e"
-    },
-    {
-      "asset": "assets_x64_0",
-      "path": "Resources/Assets/assets_x64_0.pack2",
-      "size": 2490879942,
-      "sha256": "b6c6b13c870b13111971d9c921dfccabf7b0ab62fe9f79aad5b635c67d57ef8f"
-    },
-    {
-      "asset": "data_x64_0",
-      "path": "Resources/Assets/data_x64_0.pack2",
-      "size": 61870352,
-      "sha256": "2dbb05c039d03757ce8740d83a652055eadf89b034f78c884151e82edec01c98"
     }
   ]
 }
