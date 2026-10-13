@@ -34,12 +34,6 @@
       "sha256": "da737491d02623f0d2c6a901779e113c158d26a66ade4d7d1ef219e48fd2d5aa"
     },
     {
-      "asset": "loginzone_x64_0",
-      "path": "Resources/Assets/LoginZone_x64_0.pack2",
-      "size": 27045891,
-      "sha256": "4a36a9631ae7646d808631e83fd9f54ba48ee2e8f8860a3314bbfb2eb06d3fea"
-    },
-    {
       "asset": "loginzone_x64_1",
       "path": "Resources/Assets/LoginZone_x64_1.pack2",
       "size": 27847873,
@@ -236,6 +230,12 @@
       "path": "Resources/Assets/assets_x64_0.pack2",
       "size": 2492250652,
       "sha256": "ca18744322914f883d384f004e039bdbc343693f5be670c87bfa44d14f85b08a"
+    },
+    {
+      "asset": "loginzone_x64_0",
+      "path": "Resources/Assets/LoginZone_x64_0.pack2",
+      "size": 27064326,
+      "sha256": "8057229f2b551781f95fd82df780b2b41a43d9d5bb13b296a2ae0c9772357e8b"
     },
     {
       "asset": "rank_menu_ui",

@@ -67,10 +67,10 @@
     },
     {
       "name": "loginzone_x64_0",
-      "version": "1.13.38",
-      "url": "https://github.com/h1z1rotk/assets/releases/download/assets-v1.13.38/loginzone_x64_0.payload",
-      "sha256": "c7f11c2fec629de3a3a7bb93204e67f935d235b196e343539a070ec35f9a24e8",
-      "size": 27026147,
+      "version": "1.13.45",
+      "url": "https://github.com/h1z1rotk/assets/releases/download/assets-v1.13.45/loginzone_x64_0.payload",
+      "sha256": "b1aff5f980396dcd29c325fb4de24f930aad8963de2fc9cb1a31122ee3aaf032",
+      "size": 27044727,
       "installPath": "Resources/Assets",
       "type": "zip"
     },
