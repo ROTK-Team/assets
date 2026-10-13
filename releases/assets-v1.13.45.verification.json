@@ -1,0 +1,65 @@
+{
+  "baselinePackVersion": "1.13.44",
+  "candidatePackVersion": "1.13.45",
+  "sourcePullRequest": "https://github.com/ROTK-Team/returnoftheking/pull/980",
+  "sourceRevision": "d22de18dc1dd19043bceb2dfff53fc9c8972ad1c",
+  "archives": [
+    {
+      "path": "archives/assets_x64_0.payload",
+      "size": 1338361713,
+      "sha256": "8cc15df92384722883efff9f9ea0d1f04c6fb887a9d7037fc424f81c68ad67e3"
+    },
+    {
+      "path": "archives/rank_menu_ui.payload",
+      "size": 89524544,
+      "sha256": "a9aa1570c2fe34bc6aa3cb489b5b2f926d7acfb1ac808022494501adaec50c67"
+    }
+  ],
+  "packs": [
+    {
+      "name": "assets_x64_0.pack2",
+      "inputSha256": "b6c6b13c870b13111971d9c921dfccabf7b0ab62fe9f79aad5b635c67d57ef8f",
+      "outputSha256": "ca18744322914f883d384f004e039bdbc343693f5be670c87bfa44d14f85b08a",
+      "unchangedAssets": 8929,
+      "replacements": [
+        {
+          "asset": "UIRoot.gfx",
+          "inputSha256": "9fc0c0f0253f33219ba8715457a8382c434e7ab73b985bd81eb027e7bd685ba7",
+          "outputSha256": "97652d78ffb719d42f4b2d2fae1fea26996c27930c18c1201ce79ed6bdc96c2d"
+        },
+        {
+          "asset": "HudGroupVoiceWindow.gfx",
+          "inputSha256": "a3b162184d419aa09dd426b1748e9aa197eadbcc9efcd48ee824171c1ddf5cd7",
+          "outputSha256": "5efff3f2d5b8d9bbc5f1751b86f3aad6fba591637e96de98261e5fd0e44d5e88"
+        }
+      ]
+    },
+    {
+      "name": "ui_x64_0.pack2",
+      "inputSha256": "68269e3c52430d84378e8857502b09f804771556e7e01a44ab6193dfce241676",
+      "outputSha256": "44e0bf43e239b7bdcff84b14e9359547e5213a1ea8b4090471a96b1b473645ab",
+      "unchangedAssets": 677,
+      "replacements": [
+        {
+          "asset": "UIRoot.gfx",
+          "inputSha256": "8a92db86c0b107b6ba36ed80e039d4935c89fde8585a4a007958ef7206195be9",
+          "outputSha256": "ad84edd6e94a84f870353de279569c949fa87668e75f34f002fbed06b57657eb"
+        },
+        {
+          "asset": "HudGroupVoiceWindow.gfx",
+          "inputSha256": "a3b162184d419aa09dd426b1748e9aa197eadbcc9efcd48ee824171c1ddf5cd7",
+          "outputSha256": "5efff3f2d5b8d9bbc5f1751b86f3aad6fba591637e96de98261e5fd0e44d5e88"
+        }
+      ]
+    }
+  ],
+  "unrelatedAssetsUnchanged": 9606,
+  "unchangedFeedEntriesPreserved": true,
+  "changedInstalledFiles": [
+    "Resources/Assets/ui_x64_0.pack2",
+    "Resources/Assets/assets_x64_0.pack2"
+  ],
+  "compiledLifecycleProofPassed": true,
+  "privateIntegrityRootsVerified": 40,
+  "published": false
+}
