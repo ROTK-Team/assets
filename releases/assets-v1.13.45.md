@@ -1,4 +1,4 @@
-# Assets 1.13.45 — Yellow pulsing knocked teammate health
+# Assets 1.13.45 ï¿½ Yellow pulsing knocked teammate health
 
 Rebuilt from the published 1.13.44 client. The remaining teammate HP fill pulses yellow (#FFD400) while knocked. Revive restores its original color and opacity; final death and spectator state override a stale knock flag. Names, team colors, icons and health width keep their existing behavior.
 
@@ -26,4 +26,4 @@ Keep this release and distribution PR in draft until promotion. Recheck that the
 
 Both uploaded draft payloads were downloaded again and their exact size and SHA-256 verified. The simulated promoted release also passes the launcher-effective feed and payload ownership contract. Publish the release before merging this distribution PR, then apply the matching private integrity policy through the normal release process. Recheck the public feed, latest release overlay and integrity roots. A server tag alone does not distribute these UI assets.
 
-Server PR #980 is merged at `21d9b926cc4268f3975ede317715412b7b239741`. Distribution PR: [assets#69](https://github.com/ROTK-Team/assets/pull/69). The companion release remains [an unpublished draft](https://github.com/ROTK-Team/assets/releases/tag/untagged-1226ca32036ed83df6be).
+Server PR #980 is merged at `21d9b926cc4268f3975ede317715412b7b239741`. Distribution PR: [assets#69](https://github.com/ROTK-Team/assets/pull/69). The companion release remains [an unpublished draft](https://github.com/ROTK-Team/assets/releases).
