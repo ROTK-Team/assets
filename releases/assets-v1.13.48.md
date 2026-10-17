@@ -1,12 +1,12 @@
 # Assets 1.13.48 — Mandatory tutorial menu and guide
 
-Add the native tutorial entry and the guided objectives panel for new players. The tutorial server alone determines progress and unlocks public modes after qualification. Existing players with a recorded public Solo, Duo or Trio match remain exempt.
+Add the native tutorial entry and the guided objectives panel for new players. The tutorial server alone determines progress and unlocks public modes after qualification. Accounts created since registration reopened on 17 October 2026 at 17:57 UTC must complete the tutorial, including those that already played. Earlier accounts with a recorded public Solo, Duo or Trio match retain their exemption.
 
 The menu handles all eleven supported languages, nonce validation, pending and stale state, confirmation and completion. Distributed tutorial text currently uses English. The current FPS setting and all unrelated client assets are preserved.
 
 Rebuilt from the published 1.13.47 files using returnoftheking server-rust/tools/recruit-course/v1/build-menu.mjs and build-hud.mjs. Both compiled menu variants pass check-menu.mjs. Every other class and non-code SWF tag is unchanged. Pack comparison preserves all entries except UIRoot.gfx in two packs and HudSystemMessagesWindow.gfx in three packs.
 
-Server routing and public menu gates must be enabled for this menu before publishing. No launcher executable update is required; restart through the launcher to download these assets.
+Publish the packs first, then immediately enable server routing and public menu gates. No launcher executable update or new server release is required; restart through the launcher to download these assets. Existing matches continue until completion.
 
 ## Changed assets
 
