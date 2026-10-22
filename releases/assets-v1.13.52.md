@@ -1,0 +1,44 @@
+# Assets 1.13.52 — Social panel fixes and game language
+
+## Changed assets
+
+- `assets_x64_0` -> `assets_x64_0.payload` (1,327,736,184 bytes, sha256 `c4a4a45582a6a266200b6275e3acd966456078c0c4d0b080462ee646e5a1267f`)
+  - `Resources/Assets/assets_x64_0.pack2`: 8 changed
+    - changed: `gfx/char/CharacterSelectWindow.gfx`, `gfx/conf/ConfirmationDialogWindow.gfx`, `gfx/huda/HudActionTimerWindow.gfx`, `gfx/hudp/HudPlayerResourcesWindow.gfx`, `gfx/huds/HudSpectatorWindow.gfx`, `gfx/huds/HudSystemMessagesWindow.gfx`, `gfx/inve/InventoryWindow.gfx`, `gfx/uiro/UIRoot.gfx`
+- `assets_x64_1` -> `assets_x64_1.payload` (128,080,996 bytes, sha256 `cb03fd5bfc234f581e8648fe93ce2b733fa04d7c132a77385433ee52a4dfcc69`)
+  - `Resources/Assets/assets_x64_1.pack2`: 3 changed
+    - changed: `gfx/huda/HudActionTimerWindow.gfx`, `gfx/huds/HudSystemMessagesWindow.gfx`, `gfx/inve/InventoryWindow.gfx`
+- `data_x64_0` -> `data_x64_0.payload` (198,345,901 bytes, sha256 `58f0a67a8573e265bffe966f0d58a2074bc4d23e6b2e4144a2df7fcca6db85b6`)
+  - `Resources/Assets/data_x64_0.pack2`: 1 changed
+    - changed: `txt/CodeStringMappings.txt`
+- `locale_rotk` -> `locale_rotk.payload` (5,042,962 bytes, sha256 `3c181e1ee8eaf45b44b84ef85c25c450e40c9fc3c79d5844f28d40db6f2c3f30`)
+  - `Locale/de_de_data.dat`: changed
+  - `Locale/de_de_data.dir`: changed
+  - `Locale/en_us_data.dat`: changed
+  - `Locale/en_us_data.dir`: changed
+  - `Locale/es_es_data.dat`: changed
+  - `Locale/es_es_data.dir`: changed
+  - `Locale/fr_fr_data.dat`: changed
+  - `Locale/fr_fr_data.dir`: changed
+  - `Locale/ja_jp_data.dat`: changed
+  - `Locale/ja_jp_data.dir`: changed
+  - `Locale/ko_kr_data.dat`: changed
+  - `Locale/ko_kr_data.dir`: changed
+  - `Locale/pt_br_data.dat`: changed
+  - `Locale/pt_br_data.dir`: changed
+  - `Locale/ru_ru_data.dat`: changed
+  - `Locale/ru_ru_data.dir`: changed
+  - `Locale/th_th_data.dat`: changed
+  - `Locale/th_th_data.dir`: changed
+  - `Locale/tr_tr_data.dat`: changed
+  - `Locale/tr_tr_data.dir`: changed
+  - `Locale/zh_cn_data.dat`: changed
+  - `Locale/zh_cn_data.dir`: changed
+- `rank_menu_ui` -> `rank_menu_ui.payload` (88,238,466 bytes, sha256 `7e35db6c2e271cd00b6436e45a7c0283b3f3d51b16796aed38b1c8bd3cc0fa29`)
+  - `Resources/Assets/ui_x64_0.pack2`: 4 changed
+    - changed: `gfx/ConfirmationDialogWindow.gfx`, `gfx/HudSystemMessagesWindow.gfx`, `gfx/MapWindow.gfx`, `gfx/UIRoot.gfx`
+  - `Resources/Assets/ui_x64_2.pack2`: 3 changed
+    - changed: `gfx/CharacterSelectWindow.gfx`, `gfx/SettingsGameplayInGameWindow.gfx`, `gfx/SettingsGameplayPreGameWindow.gfx`
+- `cz_death_ui` -> `cz_death_ui.payload` (42,012,791 bytes, sha256 `cbef9ea8bc49f0c0c9bc57370bc6e9856904db8dd23746b06aa6b357caa6f7e6`)
+  - `Resources/Assets/ui_x64_3.pack2`: 3 changed
+    - changed: `gfx/HudActionTimerWindow.gfx`, `gfx/InventoryWindow.gfx`, `gfx/InventoryWindowCZ.gfx`
