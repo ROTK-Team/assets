@@ -1,13 +1,13 @@
 {
   "manifestVersion": 1,
-  "packVersion": "1.13.54",
+  "packVersion": "1.13.55",
   "assets": [
     {
       "name": "assets_x64_0",
-      "version": "1.13.53",
-      "url": "https://github.com/h1z1rotk/assets/releases/download/assets-v1.13.53/assets_x64_0.payload",
-      "sha256": "d7de2452182f891f5cd06f3956cd4710b3c5c2d7f72d77d43537a7eb16f9af0c",
-      "size": 1327736402,
+      "version": "1.13.55",
+      "url": "https://github.com/h1z1rotk/assets/releases/download/assets-v1.13.55/assets_x64_0.payload",
+      "sha256": "1f9bbdf4f47109afc36666d4fb42458a3550856a055f353625c3d5290ff74fb8",
+      "size": 1328395588,
       "installPath": "Resources/Assets",
       "type": "zip"
     },
@@ -85,10 +85,10 @@
     },
     {
       "name": "data_x64_0",
-      "version": "1.13.54",
-      "url": "https://github.com/h1z1rotk/assets/releases/download/assets-v1.13.54/data_x64_0.payload",
-      "sha256": "6159879d298056de59126723a58630206414cd73a5f7cc7e9cb81cd87e190856",
-      "size": 229300139,
+      "version": "1.13.55",
+      "url": "https://github.com/h1z1rotk/assets/releases/download/assets-v1.13.55/data_x64_0.payload",
+      "sha256": "aa5d1900193d2486998d9dc91af134fb05d2dec7d334ad2fef1dd5003a94eb95",
+      "size": 229300149,
       "installPath": "Resources/Assets",
       "type": "zip"
     },
@@ -130,10 +130,10 @@
     },
     {
       "name": "assets_x64_2",
-      "version": "1.13.17",
-      "url": "https://github.com/h1z1rotk/assets/releases/download/assets-v1.13.17/assets_x64_2.payload",
-      "sha256": "f8fdd710810c8631c447d16f1545cd3a4df4a450000947ac8b922d360a704471",
-      "size": 477137024,
+      "version": "1.13.55",
+      "url": "https://github.com/h1z1rotk/assets/releases/download/assets-v1.13.55/assets_x64_2.payload",
+      "sha256": "19d1ae23c119efc015863a88628418a9fe1f821cc66fb661adbf1546fe69932c",
+      "size": 475929888,
       "installPath": "Resources/Assets",
       "type": "zip"
     },
