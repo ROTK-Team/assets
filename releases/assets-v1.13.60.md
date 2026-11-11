@@ -1,0 +1,43 @@
+# Assets 1.13.60
+
+## Changed assets
+
+- `assets_x64_0` -> `assets_x64_0.payload` (1,328,385,409 bytes, sha256 `3c01c6c4c61b5d57f0a6a6b0510a7e4aa726684e25628b14c18f5b7b7cb3d5d8`)
+  - `Resources/Assets/assets_x64_0.pack2`: 3 changed
+    - changed: `gfx/huds/HudSystemMessagesWindow.gfx`, `gfx/matc/MatchEndWindow.gfx`, `gfx/uiro/UIRoot.gfx`
+- `assets_x64_1` -> `assets_x64_1.payload` (128,078,038 bytes, sha256 `8f9d41e713cff026150139420cd8d139511955814f7d90f6fff0bf065a9aaea1`)
+  - `Resources/Assets/assets_x64_1.pack2`: 1 changed
+    - changed: `gfx/huds/HudSystemMessagesWindow.gfx`
+- `data_x64_0` -> `data_x64_0.payload` (229,300,459 bytes, sha256 `b6231279b316955b795b20968e275b489042f2413d6df98066cd01049095b7ec`)
+  - `Resources/Assets/data_x64_0.pack2`: 1 changed
+    - changed: `txt/CodeStringMappings.txt`
+- `locale_rotk` -> `locale_rotk.payload` (5,060,044 bytes, sha256 `4a0b5a2a2c33f5fdec8b5be208f0c394cb9e612b20f877415d0caf8a3321e977`)
+  - `Locale/de_de_data.dat`: changed
+  - `Locale/de_de_data.dir`: changed
+  - `Locale/en_us_data.dat`: changed
+  - `Locale/en_us_data.dir`: changed
+  - `Locale/es_es_data.dat`: changed
+  - `Locale/es_es_data.dir`: changed
+  - `Locale/fr_fr_data.dat`: changed
+  - `Locale/fr_fr_data.dir`: changed
+  - `Locale/ja_jp_data.dat`: changed
+  - `Locale/ja_jp_data.dir`: changed
+  - `Locale/ko_kr_data.dat`: changed
+  - `Locale/ko_kr_data.dir`: changed
+  - `Locale/pt_br_data.dat`: changed
+  - `Locale/pt_br_data.dir`: changed
+  - `Locale/ru_ru_data.dat`: changed
+  - `Locale/ru_ru_data.dir`: changed
+  - `Locale/th_th_data.dat`: changed
+  - `Locale/th_th_data.dir`: changed
+  - `Locale/tr_tr_data.dat`: changed
+  - `Locale/tr_tr_data.dir`: changed
+  - `Locale/zh_cn_data.dat`: changed
+  - `Locale/zh_cn_data.dir`: changed
+- `rank_menu_ui` -> `rank_menu_ui.payload` (88,251,039 bytes, sha256 `54d6e207ebb09b56b908854fe6d23d459210dbb0c69bfc34f737ef30c7ea1d64`)
+  - `Resources/Assets/ui_x64_0.pack2`: 2 changed
+    - changed: `gfx/HudSystemMessagesWindow.gfx`, `gfx/UIRoot.gfx`
+  - `Resources/Assets/ui_x64_2.pack2`: no entry changed (rebuilt with its payload)
+- `z2_x64_12` -> `z2_x64_12.payload` (248,402,547 bytes, sha256 `068dcf004febee29985b63e51395858d72b2f4287ae2ef5717551aebc86aa64e`)
+  - `Resources/Assets/Z2_x64_12.pack2`: 1 changed
+    - changed: `zone/Z2.zone`
