@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "kind": "asset-payloads",
-  "packVersion": "1.13.60",
+  "packVersion": "1.13.61",
   "files": [
     {
       "asset": "assets_x64_10",
@@ -266,6 +266,12 @@
       "path": "Resources/Assets/Z2_x64_19.pack2",
       "size": 336964835,
       "sha256": "f3a9f908b8444f4a0dd2ccfc4736fd9606588744de691044b44d83dc998a7711"
+    },
+    {
+      "asset": "practicezone_x64_0",
+      "path": "Resources/Assets/PracticeZone_x64_0.pack2",
+      "size": 64348578,
+      "sha256": "83e8ed2f4490362338b3dc187ac291144203fb7cf4da6b5256020fe49877c0d6"
     }
   ]
 }
