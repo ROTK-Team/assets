@@ -1,6 +1,6 @@
 {
   "manifestVersion": 1,
-  "packVersion": "1.13.60",
+  "packVersion": "1.13.61",
   "assets": [
     {
       "name": "assets_x64_0",
@@ -197,6 +197,15 @@
       "url": "https://github.com/h1z1rotk/assets/releases/download/assets-v1.13.59/z2_x64_19.payload",
       "sha256": "3b4fba223c58659cd57c17247c7a9214977774fe16ce4e0ce9161e7963bbed34",
       "size": 336237539,
+      "installPath": "Resources/Assets",
+      "type": "zip"
+    },
+    {
+      "name": "practicezone_x64_0",
+      "version": "1.13.61",
+      "url": "https://github.com/h1z1rotk/assets/releases/download/assets-v1.13.61/practicezone_x64_0.payload",
+      "sha256": "a1c0f001da27d3559150e5413148cc1b8f5fae21157f84538707ab438bc6c602",
+      "size": 64335583,
       "installPath": "Resources/Assets",
       "type": "zip"
     }
