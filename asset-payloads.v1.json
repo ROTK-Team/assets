@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "kind": "asset-payloads",
-  "packVersion": "1.13.60",
+  "packVersion": "1.13.62",
   "files": [
     {
       "asset": "assets_x64_10",
@@ -228,8 +228,8 @@
     {
       "asset": "assets_x64_0",
       "path": "Resources/Assets/assets_x64_0.pack2",
-      "size": 2492401998,
-      "sha256": "201099e3723b15aa64a265a550c7ae5f8d0eb3c6497b1b7c6daf2cf17e69a461"
+      "size": 2492405400,
+      "sha256": "3cbf36bcb285ba465d4eb6caf6c352f171be41058ac84f501471e30aff2f43f4"
     },
     {
       "asset": "loginzone_x64_0",
@@ -240,8 +240,8 @@
     {
       "asset": "rank_menu_ui",
       "path": "Resources/Assets/ui_x64_0.pack2",
-      "size": 41623301,
-      "sha256": "c3235b0382ce8e11a1f3fbd5c5717a9c6351b5eb0bcda3fd4f41a2d8f14cb48b"
+      "size": 41626499,
+      "sha256": "841c8b91a5acc4b8a8dfc1f822955c944aa2595086e3b5942440124a008bf9d7"
     },
     {
       "asset": "rank_menu_ui",
@@ -266,6 +266,12 @@
       "path": "Resources/Assets/Z2_x64_19.pack2",
       "size": 336964835,
       "sha256": "f3a9f908b8444f4a0dd2ccfc4736fd9606588744de691044b44d83dc998a7711"
+    },
+    {
+      "asset": "practicezone_x64_0",
+      "path": "Resources/Assets/PracticeZone_x64_0.pack2",
+      "size": 64348578,
+      "sha256": "83e8ed2f4490362338b3dc187ac291144203fb7cf4da6b5256020fe49877c0d6"
     }
   ]
 }
